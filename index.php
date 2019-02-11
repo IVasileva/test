@@ -14,10 +14,10 @@
 <nav id="menu">
   <ul>
     <li class="active"><a href="#">Home</a></li>
-    <li><a href="#">Products</a></li>
-    <li><a href="#">Support</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="#">Продукти</a></li>
+    <li><a href="#">Съпорт</a></li>
+    <li><a href="#">За Нас</a></li>
+    <li><a href="#">Контакти</a></li>
   </ul>
 </nav>
 <header id="logo">
